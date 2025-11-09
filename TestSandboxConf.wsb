@@ -13,9 +13,10 @@
     </MappedFolder>
   </MappedFolders>
   <LogonCommand>
-    <Command>https://poczta.nu-med.pl</Command>
+    <Command>start https://poczta.nu-med.pl</Command>
   </LogonCommand>
 
   <ProtectedClient>Enable</ProtectedClient>
 // <MemoryInMB>2048</MemoryInMB>
 </Configuration>
+
