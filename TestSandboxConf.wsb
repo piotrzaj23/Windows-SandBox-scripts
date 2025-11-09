@@ -1,0 +1,6 @@
+<Configuration> 
+<Networking>Enable</Networking>
+<LogonCommand>
+<Command>https://poczta.nu-med.pl</Command>
+ </LogonCommand>
+</Configuration>
