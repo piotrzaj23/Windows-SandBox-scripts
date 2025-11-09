@@ -1,3 +1,3 @@
 # Windows-SandBox-scripts
 Pełna konfiguracja maszyny do SandBoxingu 
-Zawiera wszystkie możliwe parametry dla maszyny wirtualnej
+Zawiera wszystkie możliwe do ustawienia parametr
